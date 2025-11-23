@@ -1,15 +1,15 @@
 ========================================================================
 PROJECT TITLE: MediStock - Pharmacy Inventory & Expiry Tracker  
 DOMAIN:        Healthcare / Retail Management  
-LANGUAGE:      Java (JDK 8 or higher)  
-========================================================================
+LANGUAGE:      Java (JDK 8 or higher )  
+
 
 ## 📸 Project Screenshots
 
-### 🔹 Screenshot 1 – Item Entry & Main Menu
+### 🔹 Item Entry & Main Menu
 <img src="images/screenshot1.png" width="700">
 
-### 🔹 Screenshot 2 – Current Stock List Display
+### 🔹 Current Stock List Display
 <img src="images/screenshot2.png" width="700">
 
 
@@ -24,8 +24,8 @@ the tracking process to ensure patient safety and reduce stock wastage.
 
 MediStock is a Console-Based Application designed to help pharmacists 
 manage their inventory efficiently. The core feature of this system is 
-the "Expiry Risk Scan," which mathematically calculates the days remaining 
-for every medicine and alerts the user about critical or near-expiry stock.
+the "Expiry Risk Scan ," which mathematically calculates the days remaining 
+for every medicine and alerts  the user about critical or near-expiry stock.
 
 ## 3. KEY FEATURES
 
